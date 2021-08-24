@@ -1,12 +1,13 @@
 */ {
     outline: 2px solid red;
+    background-color: aqua;
 }
 
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-p{}
+
 
 .Experiencia {
     background-color: #33A376;
