@@ -1,6 +1,9 @@
 */ {
     outline: 2px solid red;
-    background-color: aqua;
+    
+}
+body {
+    background-color:blanchedalmond;
 }
 
 h1 {
@@ -9,7 +12,7 @@ h1 {
 
 
 
-.Experiencia {
+.experiencia {
     background-color: #33A376;
-    max-height: 150px;
+    max-height: 450px;
 }
